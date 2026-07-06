@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://deef.dev/sitemap.xml
