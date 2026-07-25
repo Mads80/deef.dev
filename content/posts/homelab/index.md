@@ -123,7 +123,7 @@ CNAME    *deef.dk      deef.dk          DNS Only
 Configuring Let's Encrypt SSL Certificate:
 ![TLS Certificate](img/create-certificate.png "Create SSL Certificate")
 
-Add your first Proxy Host.
+Add start adding your first Proxy Hosts.
 ![Add your first Proxy Host](img/add-proxy-host.png "Add your first Proxy Host")
 
 > [!TIP]

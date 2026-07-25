@@ -55,6 +55,8 @@ noRelated = true
 +++
 ```
 
+---
+
 ## Shortcodes
 
 I wanted to add a shortcode that shows current year.
