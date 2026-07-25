@@ -6,15 +6,13 @@ tags = ['seedbox', 'piracy', 'whatbox', 'vpn']
 showAuthor = false
 +++
 
-While on the topic of piracy *([see my previous post about Massgrave](/posts/massgrave))*, I wan't to talk a little bit about seedboxes, and why I prefer to have on over adding the ARR stack to my homelab. Short answer is VPN and HDD prices.
+While on the topic of piracy *([see my previous post about Massgrave](/posts/massgrave))*, I wan't to talk a little bit about seedboxes, and why I prefer to have on over adding the ARR stack to my homelab.
 
 I decided to go with [Whatbox](https://whatbox.ca/) for no particular reason other than I liked their approach and their website design. I really appreciate a simple design. A bit like [Porkbun](https://porkbun.com/) where I bought my latest domains, but that is a different story.
 
-I've been with Whatbox for almost a year now, and I'm very happy with it.
+I've been with Whatbox for almost a year now, and I'm very happy with it. So I guess I made the right decision, even if my enitial reasoning wasn't very good.
 
 ## What is a Seedbox?
-
-Might have to back up a bit and explain what a seedbox actually is.
 
 A seedbox is a virtual machine that you can use to, well, almost anything, within the rules of the provider ofcourse.
 
@@ -46,7 +44,7 @@ What I currently have set up on my seedbox is the following:
 
 ## Why a Seedbox?
 
-Let's be honest, you don't need a seedbox to download torrents. You can do it on your own computer, but a seedbox is a convenient and safe way to do it.
+Let's be honest, you don't need a seedbox to download Linux ISO's. You can do that on your own computer, but a seedbox is a convenient and safe way to do it.
 
 Pros and cons of using a seedbox:
 
@@ -68,7 +66,11 @@ Pros and cons of using a seedbox:
 > - Limited control compared to self-hosting, even though providers like [Whatbox](https://www.whatbox.ca/) offer decent customization.  
 > - Reliance on a third-party service (downtime or policy changes can affect access).  
 > - Privacy depends on how much you trust the provider.  
-> - Some plans include storage or bandwidth limits.  
+> - Some plans include storage or bandwidth limits.
 {icon="xmark"}
 
+---
+
 # WIP
+
+This post is a work in progress. I will be updating it as I go.
