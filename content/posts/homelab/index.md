@@ -17,8 +17,6 @@ Personal documentation for my homelab infrastructure. This documentation contain
 > - Lenovo ThinkCentre M920x, i5-8500, 16 GB RAM, 256 GB NVMe (lv-223)
 > - Lenovo ThinkCentre M920x, i3-8100, 16 GB RAM, 256 GB NVMe (lv-178)
 > - 2x Dell Wyse ThinClient (currently not in use)
-> - Raspberry Pi 3B + HiFiBerry AMP+
-> - Raspberry Pi 2B
 > - Cloud Gateway Ultra
 > - USW Flex Mini
 > - U7 Lite AP
