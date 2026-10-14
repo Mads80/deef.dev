@@ -4,7 +4,7 @@
   dir="ltr"
   class="scroll-smooth"
   data-default-appearance="light"
-  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  data-auto-appearance="true"><head>
   <meta charset="utf-8">
   
     <meta http-equiv="content-language" content="en">
@@ -36,7 +36,7 @@
   
   
   
-  <link rel="canonical" href="http://localhost:1313/posts/my-first-post/">
+  <link rel="canonical" href="https://deef.dev/posts/my-first-post/">
   
   
 
@@ -65,7 +65,7 @@
   
 
   
-  <meta property="og:url" content="http://localhost:1313/posts/my-first-post/">
+  <meta property="og:url" content="https://deef.dev/posts/my-first-post/">
 	<meta property="og:site_name" content="~/deef.dev">
 	<meta property="og:title" content="My First Post">
 	<meta property="og:description" content="This is my first post. Website is made with Hugo and the theme is Blowfish. I will be updating this post with stuff I learn along the way.
@@ -82,11 +82,11 @@ Favicon.ioI used this very handy website to generate logo and favicon.">
 		<meta property="article:tag" content="Shortcodes">
 		<meta property="article:tag" content="Zed">
 		<meta property="article:tag" content="Html">
-		<meta property="og:image" content="http://localhost:1313/posts/my-first-post/featured.png">
+		<meta property="og:image" content="https://deef.dev/posts/my-first-post/featured.png">
 
   
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:image" content="http://localhost:1313/posts/my-first-post/featured.png">
+	<meta name="twitter:image" content="https://deef.dev/posts/my-first-post/featured.png">
 	<meta name="twitter:title" content="My First Post">
 	<meta name="twitter:description" content="This is my first post. Website is made with Hugo and the theme is Blowfish. I will be updating this post with stuff I learn along the way.
 Below is a short list of tools I used to make this website.
@@ -246,11 +246,11 @@ Favicon.ioI used this very handy website to generate logo and favicon.">
     "headline": "My First Post",
     
     "inLanguage": "en",
-    "url" : "http://localhost:1313/posts/my-first-post/",
+    "url" : "https://deef.dev/posts/my-first-post/",
     "author" : {
       "@type": "Person",
       "name": "Mads",
-      "image": "http://localhost:1313/img/profile.png",
+      "image": "https://deef.dev/img/profile.png",
       "sameAs": ["https://github.com/mads80", "https://instagram.com/mads2o5"]
     },
     "copyrightYear": "2026",
@@ -261,7 +261,7 @@ Favicon.ioI used this very handy website to generate logo and favicon.">
     
     "keywords": ["website","hugo","blowfish","shortcodes","zed","html"],
     
-    "mainEntityOfPage": "http://localhost:1313/posts/my-first-post/",
+    "mainEntityOfPage": "https://deef.dev/posts/my-first-post/",
     "wordCount": "278"
   }]
   </script>
@@ -269,6 +269,12 @@ Favicon.ioI used this very handy website to generate logo and favicon.">
 
 
   
+  
+    
+
+
+
+
   
 
   
@@ -1034,7 +1040,7 @@ I will be updating this post with stuff I learn along the way.</p>
     </span>
     
 </h2>
-<p>I wanted to hide my <a href="http://localhost:1313/about/" >About</a> page from the Recent Posts section.</p>
+<p>I wanted to hide my <a href="https://deef.dev/about/" >About</a> page from the Recent Posts section.</p>
 <p>Start by creating <code>related.html in your </code>layouts/partials` directory. Paste the following code into it:</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-html" data-lang="html"><span class="line"><span class="cl">{{ if .Params.showRelatedContent | default
 </span></span><span class="line"><span class="cl">(.Site.Params.article.showRelatedContent | default false) }} {{ $related :=
